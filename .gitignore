@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+surprise-env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings (optional)
+.vscode/
+
+# Data (optional: include only if you don't want to push datasets)
+*.csv
+*.tsv
+
+# OS-specific
+.DS_Store
+Thumbs.db
